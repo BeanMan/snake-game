@@ -14,6 +14,3 @@ const App: React.FC = () => {
 }
 
 export default App;
-
-// 添加这一行
-export {};
